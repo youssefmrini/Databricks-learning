@@ -8,11 +8,12 @@ Welcome to the ultimate starter kit for mastering the **Databricks Data Intellig
 
 ### 1. 🎓 Top-Tier Courses
 * **[Databricks Academy (Official)](https://www.databricks.com/learn/training/login):** The best place to start. Look for the *Data Engineer Associate* and *Data Analyst* learning paths.
-* **:** Search for courses by *Shanmukh Sattiraju* for hands-on Medallion projects.
+* **[Datacamp](https://www.datacamp.com/category/databricks?page=1):** 
 * **[Coursera: Data Engineering with Databricks](https://www.coursera.org/):** A structured specialization covering Delta Lake and ETL pipelines.
 
 ### 2. 📺 YouTube Channels (Visual Learning)
 * **[Databricks Official](https://www.youtube.com/@Databricks):** Key for Keynotes and "What's New" (Mosaic AI, Unity Catalog).
+* **[NextGenLakehouse](https://www.youtube.com/@nextgenlakehouse):** Key for Keynotes and "What's New" (Mosaic AI, Unity Catalog).
 * **[Advancing Analytics](https://www.youtube.com/@AdvancingAnalytics):** Excellent deep-dives into Delta Lake internals and architecture.
 * **[Data with Zach](https://www.youtube.com/@datawithzach):** Great for end-to-end projects and career advice in the Databricks ecosystem.
 
