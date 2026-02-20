@@ -16,14 +16,24 @@ Welcome to the ultimate starter kit for mastering the **Databricks Data Intellig
 * **[Databricks Academy (Official)](https://www.databricks.com/learn/training/login):** The best place to start.
 * **[Datacamp](https://www.datacamp.com/category/databricks?page=1):** Interactive tracks specifically for Databricks environments.
 * **[Coursera: Data Engineering with Databricks](https://www.coursera.org/):** A structured specialization covering Delta Lake and ETL pipelines.
-
+* 
 ### 2. 📺 YouTube Channels
 * **[Databricks Official](https://www.youtube.com/@Databricks):** Key for Keynotes and "What's New" (Mosaic AI, Unity Catalog).
-* **[NextGenLakehouse](https://www.youtube.com/@nextgenlakehouse):** Expert-led sessions focusing on modern Lakehouse design, governance, and the evolution of the Data Intelligence Platform.
-* **[Advancing Analytics](https://www.youtube.com/@AdvancingAnalytics):** Excellent deep-dives into Delta Lake internals, Medallion Architecture, and Spark optimization.
-* **[Josue Bogran](https://www.youtube.com/@JosueBogranChannel):** Practical, hands-on tutorials for real-world data engineering scenarios and platform implementation.
-* **[Hubert Dudek](https://www.youtube.com/@databricks_hubert_dudek):** Highly technical content focused on Databricks SQL, performance tuning, and hidden platform features.
+* **[VectorLab](https://www.youtube.com/@VectorLab):** The go-to channel for **Generative AI** on Databricks, focusing on Agent Framework, Vector Search, and RAG architectures.
+* **[Delta Lake Official](https://www.youtube.com/@DeltaLake):** Deep dives into the Delta Lake open-source project, including transaction logs and Liquid Clustering.
+* **[MLflow OSS](https://www.youtube.com/@mlflowoss):** Essential for MLOps, covering experiment tracking, model serving, and the latest in MLflow 3.x.
+* **[NextGenLakehouse](https://www.youtube.com/@nextgenlakehouse):** Expert-led sessions focusing on modern Lakehouse design and governance.
+* **[Advancing Analytics](https://www.youtube.com/@AdvancingAnalytics):** Excellent deep-dives into Delta Lake internals and Medallion Architecture.
+* **[Hubert Dudek](https://www.youtube.com/@databricks_hubert_dudek):** Highly technical content focused on Databricks SQL and performance tuning.
 
+### 3. ✍️ Technical Blogs & Documentation
+* **[The Databricks Blog](https://www.databricks.com/blog):** Official updates on platform features and product launches.
+* **[MLflow Blog](https://mlflow.org/blog):** Stay updated on the latest in the MLOps lifecycle and LLM tracking.
+* **[Delta.io Blog](https://delta.io/blog/):** Technical articles specifically about the Delta Lake open-source ecosystem.
+* **[Unity Catalog Blogs](https://www.unitycatalog.io/blogs):** Focused strictly on open-source governance and unified metadata management.
+* **[Databricks Unity Catalog SME](https://medium.com/databricks-unity-catalog-sme):** Expert perspectives on advanced governance and security design patterns.
+* **[Databricks Platform SME](https://medium.com/databricks-platform-sme):** Specialized articles on architecture and platform migrations.
+* **[Official Documentation](https://docs.databricks.com/):** The gold standard for syntax, configuration, and API references.
 
 ### 3. ✍️ Technical Blogs & Documentation
 * **[The Databricks Blog](https://www.databricks.com/blog):** Stay updated on the latest features like **Liquid Clustering** and **AI Functions**.
