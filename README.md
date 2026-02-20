@@ -2,7 +2,6 @@
 
 Welcome to the ultimate starter kit for mastering the **Databricks Data Intelligence Platform**. This repository is a curated collection of resources, code samples, and architectural patterns to help you build production-ready Lakehouses.
 
-[Image of Databricks Lakehouse Architecture]
 
 ---
 
@@ -10,8 +9,8 @@ Welcome to the ultimate starter kit for mastering the **Databricks Data Intellig
 
 ### 1. 🎓 Top-Tier Courses & platform
 * **[Databricks Free Edition](https://www.databricks.com/learn/free-edition):** The essential "sandbox" for learners. Get a perpetually free, serverless workspace to practice PySpark and SQL without needing a cloud provider account or credit card.
-* **[Databricks Academy (Official)](https://www.databricks.com/learn/training/login):** The best place to start. Look for the *Data Engineer Associate* and *Data Analyst* learning paths.
-* **[Datacamp](https://www.datacamp.com/category/databricks?page=1):** Interactive R and Python tracks specifically for Databricks environments.
+* **[Databricks Academy (Official)](https://www.databricks.com/learn/training/login):** The best place to start.
+* **[Datacamp](https://www.datacamp.com/category/databricks?page=1):** Interactive tracks specifically for Databricks environments.
 * **[Coursera: Data Engineering with Databricks](https://www.coursera.org/):** A structured specialization covering Delta Lake and ETL pipelines.
 
 ### 2. 📺 YouTube Channels
