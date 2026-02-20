@@ -8,7 +8,8 @@ Welcome to the ultimate starter kit for mastering the **Databricks Data Intellig
 
 ## 🗺️ Learning Roadmap
 
-### 1. 🎓 Top-Tier Courses
+### 1. 🎓 Top-Tier Courses & platform
+* **[Databricks Free Edition](https://www.databricks.com/learn/free-edition):** The essential "sandbox" for learners. Get a perpetually free, serverless workspace to practice PySpark and SQL without needing a cloud provider account or credit card.
 * **[Databricks Academy (Official)](https://www.databricks.com/learn/training/login):** The best place to start. Look for the *Data Engineer Associate* and *Data Analyst* learning paths.
 * **[Datacamp](https://www.datacamp.com/category/databricks?page=1):** Interactive R and Python tracks specifically for Databricks environments.
 * **[Coursera: Data Engineering with Databricks](https://www.coursera.org/):** A structured specialization covering Delta Lake and ETL pipelines.
@@ -24,11 +25,20 @@ Welcome to the ultimate starter kit for mastering the **Databricks Data Intellig
 ### 3. ✍️ Technical Blogs & Documentation
 * **[The Databricks Blog](https://www.databricks.com/blog):** Stay updated on the latest features like **Liquid Clustering** and **AI Functions**.
 * **[Databricks Platform SME](https://medium.com/databricks-platform-sme):** Specialized technical articles from Subject Matter Experts focusing on platform architecture and complex migrations.
-* **[Databricks SQK SME](https://medium.com/@databricks_sql_sme):** Specialized technical articles from Subject Matter Experts focusing on DBSQL
+* **[Databricks SQL SME](https://medium.com/@databricks_sql_sme):** Specialized technical articles from Subject Matter Experts focusing on DBSQL
 * **[Databricks Community Technical Blog](https://community.databricks.com/t5/technical-blog/bg-p/technical-blog):** Peer-reviewed technical guides and troubleshooting tips directly from the official community.
 * **[Official Documentation](https://docs.databricks.com/):** The gold standard for syntax, configuration, and API references.
 
-### 4. 📚 Essential Reading
+### 4. 📚 Certifications
+* **[Data Analyst Associate](https://www.databricks.com/learn/certification/data-analyst-associate):** Validates skills in Databricks SQL, data visualization, and dashboarding.
+* **[Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate):** The core credential for building ETL pipelines using Spark SQL, PySpark, and Delta Lake.
+* **[Data Engineer Professional](https://www.databricks.com/learn/certification/data-engineer-professional):** Advanced certification for production-grade pipelines, optimization, and governance.
+* **[Machine Learning Associate](https://www.databricks.com/learn/certification/machine-learning-associate):** Focuses on basic ML workflows, model training, and MLflow integration.
+* **[Machine Learning Professional](https://www.databricks.com/learn/certification/machine-learning-professional):** Validates advanced MLOps skills, model serving, and production lifecycle management.
+* **[Generative AI Engineer Associate](https://www.databricks.com/learn/certification/generative-ai-engineer-associate):** **(New for 2026)** Focuses on building RAG applications, LLM serving, and vector databases.
+* **[Apache Spark Developer Associate](https://www.databricks.com/learn/certification/apache-spark-developer-associate):** Deep dive into the Spark DataFrame API and architecture (Python or Scala).
+
+### 5. 📚 Essential Reading
 * **"Learning Spark" (2nd Ed)** by *Jules Damji et al.* – The "Bible" for PySpark and the DataFrame API.
 * **"Spark: The Definitive Guide"** by *Matei Zaharia & Bill Chambers* – Deep dive into the Spark engine, internals, and structured APIs.
 * **"Delta Lake: The Definitive Guide"** by *Denny Lee et al.* – The essential guide for building reliable Lakehouses with ACID transactions.
