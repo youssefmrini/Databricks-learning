@@ -1,14 +1,18 @@
+# 🚀 Under Construction
+
 # 🚀 Databricks Fast-Track: Zero to Hero 2026
 
 Welcome to the ultimate starter kit for mastering the **Databricks Data Intelligence Platform**. This repository is a curated collection of resources, code samples, and architectural patterns to help you build production-ready Lakehouses.
-
 
 ---
 
 ## 🗺️ Learning Roadmap
 
-### 1. 🎓 Top-Tier Courses & platform
+### 0. 🎓 Tutorials
 * **[Databricks Free Edition](https://www.databricks.com/learn/free-edition):** The essential "sandbox" for learners. Get a perpetually free, serverless workspace to practice PySpark and SQL without needing a cloud provider account or credit card.
+* **[DBDemos](https://www.databricks.com/resources/demos/tutorials):** Product-focused demos. Learn about Databricks products. dbdemos covers it all — Lakeflow Spark Declarative Pipelines, streaming, deep learning, MLOps and more.
+
+### 1. 🎓 Top-Tier Courses & platform
 * **[Databricks Academy (Official)](https://www.databricks.com/learn/training/login):** The best place to start.
 * **[Datacamp](https://www.datacamp.com/category/databricks?page=1):** Interactive tracks specifically for Databricks environments.
 * **[Coursera: Data Engineering with Databricks](https://www.coursera.org/):** A structured specialization covering Delta Lake and ETL pipelines.
@@ -25,6 +29,7 @@ Welcome to the ultimate starter kit for mastering the **Databricks Data Intellig
 * **[The Databricks Blog](https://www.databricks.com/blog):** Stay updated on the latest features like **Liquid Clustering** and **AI Functions**.
 * **[Databricks Platform SME](https://medium.com/databricks-platform-sme):** Specialized technical articles from Subject Matter Experts focusing on platform architecture and complex migrations.
 * **[Databricks SQL SME](https://medium.com/@databricks_sql_sme):** Specialized technical articles from Subject Matter Experts focusing on DBSQL
+* **[Databricks UC SME](https://medium.com/databricks-unity-catalog-sme):** Specialized technical articles from Subject Matter Experts focusing on DBSQL
 * **[Databricks Community Technical Blog](https://community.databricks.com/t5/technical-blog/bg-p/technical-blog):** Peer-reviewed technical guides and troubleshooting tips directly from the official community.
 * **[Official Documentation](https://docs.databricks.com/):** The gold standard for syntax, configuration, and API references.
 
