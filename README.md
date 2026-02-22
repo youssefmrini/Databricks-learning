@@ -14,6 +14,7 @@ Welcome to the ultimate starter kit for mastering the **Databricks Data Intellig
 
 ### 1. 🎓 Top-Tier Courses & platform
 * **[Databricks Academy (Official)](https://www.databricks.com/learn/training/login):** The best place to start.
+* **[Nextgenlakehouse](https://www.nextgenlakehouse.com/):** The second best place to start.
 * **[Datacamp](https://www.datacamp.com/category/databricks?page=1):** Interactive tracks specifically for Databricks environments.
 * **[Coursera: Data Engineering with Databricks](https://www.coursera.org/):** A structured specialization covering Delta Lake and ETL pipelines.
 * 
