@@ -1,10 +1,6 @@
-<!-- Canonical source: https://www.nextgenlakehouse.com/blog/databricks-learning-roadmap-2026 -->
-<link rel="canonical" href="https://www.nextgenlakehouse.com/blog/databricks-learning-roadmap-2026" />
-
 # How to Learn Databricks for Free in 2026: The Complete Roadmap
 
-> **Original source:** This roadmap was first published on NextGenLakehouse.
-> The canonical version lives at **[nextgenlakehouse.com/blog/databricks-learning-roadmap-2026](https://www.nextgenlakehouse.com/blog/databricks-learning-roadmap-2026)** — please refer to it for the most up-to-date content.
+> **Originally published on [NextGenLakehouse](https://www.nextgenlakehouse.com/blog/databricks-learning-roadmap-2026).** This is the source blog for the roadmap below.
 
 Everything you need to learn Databricks in 2026 is free.
 
