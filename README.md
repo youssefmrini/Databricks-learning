@@ -264,7 +264,3 @@ A curated set of extra links to complement the roadmap above.
 - **[Databricks Platform SME](https://medium.com/databricks-platform-sme):** Specialized articles on architecture and platform migrations.
 - **[Databricks SQL SME](https://medium.com/@databricks_sql_sme):** Specialized technical articles focused on DBSQL.
 - **[Databricks Community Technical Blog](https://community.databricks.com/t5/technical-blog/bg-p/technical-blog):** Peer-reviewed technical guides and troubleshooting tips from the official community.
-
-### 📚 More Essential Reading
-- **"Spark: The Definitive Guide"** by *Matei Zaharia &amp; Bill Chambers* — Deep dive into the Spark engine, internals, and structured APIs.
-- **"Data Engineering with Databricks Cookbook"** by *Pulkit Chadha* — Practical recipes for building and optimizing production data pipelines on the platform.
