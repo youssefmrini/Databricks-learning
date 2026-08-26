@@ -235,3 +235,36 @@ Most learners start with the Associate certification for their role (for example
 **Are there free Databricks books?**
 
 Yes — "Learning Spark (2nd Edition)," "Delta Lake: The Definitive Guide," and "Databricks Data Intelligence Platform: Powering the Agentic Era" are available at no cost.
+
+---
+
+## Additional Learning Resources
+
+A curated set of extra links to complement the roadmap above.
+
+### 🎓 Courses & Platforms
+- **[DBDemos](https://www.databricks.com/resources/demos/tutorials):** Product-focused demos covering Lakeflow Spark Declarative Pipelines, streaming, deep learning, MLOps and more.
+- **[NextGenLakehouse](https://www.nextgenlakehouse.com/):** Modern Lakehouse design, governance, and hands-on guides.
+- **[Datacamp](https://www.datacamp.com/category/databricks?page=1):** Interactive tracks specifically for Databricks environments.
+- **[Coursera: Data Engineering with Databricks](https://www.coursera.org/):** A structured specialization covering Delta Lake and ETL pipelines.
+
+### 📺 YouTube Channels
+- **[VectorLab](https://www.youtube.com/@VectorLab):** Generative AI on Databricks — Agent Framework, Vector Search, and RAG architectures.
+- **[Delta Lake Official](https://www.youtube.com/@DeltaLake):** Deep dives into the Delta Lake open-source project, including transaction logs and Liquid Clustering.
+- **[MLflow OSS](https://www.youtube.com/@mlflowoss):** MLOps essentials — experiment tracking, model serving, and the latest in MLflow 3.x.
+- **[Advancing Analytics](https://www.youtube.com/@AdvancingAnalytics):** Deep-dives into Delta Lake internals and Medallion Architecture.
+- **[Hubert Dudek](https://www.youtube.com/@databricks_hubert_dudek):** Highly technical content focused on Databricks SQL and performance tuning.
+
+### ✍️ Technical Blogs & Documentation
+- **[The Databricks Blog](https://www.databricks.com/blog):** Official updates on platform features and product launches.
+- **[MLflow Blog](https://mlflow.org/blog):** The latest in the MLOps lifecycle and LLM tracking.
+- **[Delta.io Blog](https://delta.io/blog/):** Technical articles about the Delta Lake open-source ecosystem.
+- **[Unity Catalog Blogs](https://www.unitycatalog.io/blogs):** Open-source governance and unified metadata management.
+- **[Databricks Unity Catalog SME](https://medium.com/databricks-unity-catalog-sme):** Expert perspectives on advanced governance and security design patterns.
+- **[Databricks Platform SME](https://medium.com/databricks-platform-sme):** Specialized articles on architecture and platform migrations.
+- **[Databricks SQL SME](https://medium.com/@databricks_sql_sme):** Specialized technical articles focused on DBSQL.
+- **[Databricks Community Technical Blog](https://community.databricks.com/t5/technical-blog/bg-p/technical-blog):** Peer-reviewed technical guides and troubleshooting tips from the official community.
+
+### 📚 More Essential Reading
+- **"Spark: The Definitive Guide"** by *Matei Zaharia &amp; Bill Chambers* — Deep dive into the Spark engine, internals, and structured APIs.
+- **"Data Engineering with Databricks Cookbook"** by *Pulkit Chadha* — Practical recipes for building and optimizing production data pipelines on the platform.
