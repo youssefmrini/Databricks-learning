@@ -4,6 +4,8 @@
 
 Welcome to the ultimate starter kit for mastering the **Databricks Data Intelligence Platform**. This repository is a curated collection of resources, code samples, and architectural patterns to help you build production-ready Lakehouses.
 
+> 📘 **New:** [How to Learn Databricks for Free in 2026: The Complete Roadmap](./databricks-learning-roadmap-2026.md) — role-based Academy paths, certifications, books, and free resources. _(Canonical source: [NextGenLakehouse](https://www.nextgenlakehouse.com/blog/databricks-learning-roadmap-2026))_
+
 ---
 
 ## 🗺️ Learning Roadmap
